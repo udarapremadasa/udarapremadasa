@@ -1,0 +1,105 @@
+<svg width="900" height="656" viewBox="0 0 900 656" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" xml:space="preserve">
+  <defs>
+    <clipPath id="window">
+      <rect width="900" height="656" rx="10"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#window)">
+    <!-- editor background -->
+    <rect width="900" height="656" fill="#fbf1c7"/>
+
+    <!-- ===== tabline ===== -->
+    <rect width="900" height="36" fill="#f2e5bc"/>
+    <rect x="0" y="0" width="140" height="36" fill="#fbf1c7"/>
+    <rect x="0" y="0" width="140" height="2" fill="#b57614"/>
+    <text x="70" y="23" font-size="13" fill="#3c3836" text-anchor="middle">contents.md</text>
+    <text x="215" y="23" font-size="13" fill="#928374" text-anchor="middle">01-intro.md</text>
+    <text x="360" y="23" font-size="13" fill="#928374" text-anchor="middle">02-stack.md</text>
+    <text x="888" y="23" font-size="13" fill="#928374" text-anchor="end">buffers: 3</text>
+
+    <!-- ===== title block ===== -->
+    <text x="450" y="96" font-size="24" font-weight="bold" fill="#b57614" text-anchor="middle" letter-spacing="6">UDARA PREMADASA</text>
+    <text x="450" y="126" font-size="14" font-style="italic" fill="#7c6f64" text-anchor="middle">Architecting systems that think</text>
+    <text x="450" y="148" font-size="12" fill="#928374" text-anchor="middle">merging AI, engineering &amp; design into seamless experiences</text>
+
+    <!-- ornament -->
+    <line x1="260" y1="172" x2="432" y2="172" stroke="#d5c4a1" stroke-width="1"/>
+    <rect x="445" y="167" width="10" height="10" fill="#af3a03" transform="rotate(45 450 172)"/>
+    <line x1="468" y1="172" x2="640" y2="172" stroke="#d5c4a1" stroke-width="1"/>
+
+    <!-- ===== contents heading ===== -->
+    <text x="450" y="210" font-size="15" font-weight="bold" fill="#3c3836" text-anchor="middle" letter-spacing="8">CONTENTS</text>
+
+    <!-- ===== toc rows ===== -->
+    <g font-size="14">
+      <!-- row 1 -->
+      <text x="110" y="250" fill="#427b58">Introduction</text>
+      <line x1="225" y1="246" x2="800" y2="246" stroke="#bdae93" stroke-width="1.5" stroke-dasharray="1.5,6"/>
+      <text x="830" y="250" fill="#8f3f71" text-anchor="end">01</text>
+
+      <!-- row 2 -->
+      <text x="110" y="278" fill="#3c3836"><tspan fill="#af3a03">Chapter 1</tspan> · The Web — <tspan fill="#79740e">TypeScript, React, Node.js</tspan></text>
+      <line x1="527" y1="274" x2="800" y2="274" stroke="#bdae93" stroke-width="1.5" stroke-dasharray="1.5,6"/>
+      <text x="830" y="278" fill="#8f3f71" text-anchor="end">02</text>
+
+      <!-- row 3 -->
+      <text x="110" y="306" fill="#3c3836"><tspan fill="#af3a03">Chapter 2</tspan> · Systems — <tspan fill="#79740e">C, C++, Go</tspan></text>
+      <line x1="393" y1="302" x2="800" y2="302" stroke="#bdae93" stroke-width="1.5" stroke-dasharray="1.5,6"/>
+      <text x="830" y="306" fill="#8f3f71" text-anchor="end">03</text>
+
+      <!-- row 4 -->
+      <text x="110" y="334" fill="#3c3836"><tspan fill="#af3a03">Chapter 3</tspan> · Cloud — <tspan fill="#79740e">GCP, Docker, Kubernetes, Linux</tspan></text>
+      <line x1="544" y1="330" x2="800" y2="330" stroke="#bdae93" stroke-width="1.5" stroke-dasharray="1.5,6"/>
+      <text x="830" y="334" fill="#8f3f71" text-anchor="end">04</text>
+
+      <!-- row 5 -->
+      <text x="110" y="362" fill="#3c3836"><tspan fill="#af3a03">Chapter 4</tspan> · Now — <tspan fill="#427b58">AI meets browser engines</tspan></text>
+      <line x1="477" y1="358" x2="800" y2="358" stroke="#bdae93" stroke-width="1.5" stroke-dasharray="1.5,6"/>
+      <text x="830" y="362" fill="#8f3f71" text-anchor="end">05</text>
+
+      <!-- row 6 -->
+      <text x="110" y="390" fill="#3c3836"><tspan fill="#af3a03">Appendix</tspan> · Contact — <tspan fill="#076678">codimite.ai · in/udarapremadasa · @udara_premadasa</tspan></text>
+      <line x1="680" y1="386" x2="800" y2="386" stroke="#bdae93" stroke-width="1.5" stroke-dasharray="1.5,6"/>
+      <text x="830" y="390" fill="#8f3f71" text-anchor="end">06</text>
+    </g>
+
+    <!-- divider -->
+    <line x1="110" y1="418" x2="830" y2="418" stroke="#d5c4a1" stroke-width="1"/>
+
+    <!-- ===== introduction ===== -->
+    <text x="450" y="454" font-size="14" font-weight="bold" fill="#b57614" text-anchor="middle" letter-spacing="5">INTRODUCTION</text>
+
+    <g font-size="14" fill="#3c3836">
+      <text x="140" y="486">Software engineer at <tspan fill="#427b58">Codimite</tspan> — Colombo, Sri Lanka.</text>
+      <text x="140" y="508">I build systems that think: web platforms, cloud infrastructure,</text>
+      <text x="140" y="530">and the occasional dive into browser engine internals.</text>
+      <text x="140" y="552">This page is the table of contents; <tspan fill="#7c6f64" font-style="italic">the repositories are the chapters.</tspan></text>
+    </g>
+
+    <!-- cursor -->
+    <rect x="668" y="539" width="9" height="17" fill="#3c3836">
+      <animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- ===== statusline ===== -->
+    <rect x="0" y="600" width="900" height="28" fill="#ebdbb2"/>
+    <rect x="0" y="600" width="82" height="28" fill="#7c6f64"/>
+    <text x="41" y="618" font-size="12" font-weight="bold" fill="#fbf1c7" text-anchor="middle">NORMAL</text>
+    <rect x="82" y="600" width="86" height="28" fill="#d5c4a1"/>
+    <text x="125" y="618" font-size="12" fill="#3c3836" text-anchor="middle">⎇ main</text>
+    <text x="182" y="618" font-size="12" fill="#7c6f64">book/contents.md</text>
+    <rect x="600" y="600" width="190" height="28" fill="#d5c4a1"/>
+    <text x="695" y="618" font-size="12" fill="#3c3836" text-anchor="middle">markdown · utf-8 · unix</text>
+    <rect x="790" y="600" width="110" height="28" fill="#7c6f64"/>
+    <text x="845" y="618" font-size="12" font-weight="bold" fill="#fbf1c7" text-anchor="middle">100% · 24:70</text>
+
+    <!-- ===== command line ===== -->
+    <rect x="0" y="628" width="900" height="28" fill="#f2e5bc"/>
+    <text x="12" y="647" font-size="13" fill="#3c3836">:wq</text>
+    <text x="888" y="647" font-size="13" fill="#928374" text-anchor="end">nvim · gruvbox light</text>
+  </g>
+
+  <!-- window border -->
+  <rect x="0.5" y="0.5" width="899" height="655" rx="10" fill="none" stroke="#d5c4a1"/>
+</svg>

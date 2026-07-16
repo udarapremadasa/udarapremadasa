@@ -8,40 +8,25 @@
     <text x="60" y="20" font-size="12" fill="#ebdbb2" text-anchor="middle">languages.lua</text>
     <text x="46" y="52" font-size="13" fill="#928374" font-style="italic">-- most used languages</text>
     <text x="24" y="76" font-size="13" fill="#7c6f64" text-anchor="end">1</text>
-    <text x="46" y="76" font-size="13" fill="#ebdbb2">TypeScript</text>
+    <text x="46" y="76" font-size="13" fill="#ebdbb2">HTML</text>
     <rect x="190" y="66" width="160" height="10" rx="3" fill="#3c3836"/>
-    <rect x="190" y="66" width="68" height="10" rx="3" fill="#fabd2f"/>
-    <text x="364" y="76" font-size="12" fill="#a89984">42.3%</text>
+    <rect x="190" y="66" width="74" height="10" rx="3" fill="#fabd2f"/>
+    <text x="364" y="76" font-size="12" fill="#a89984">46.0%</text>
     <text x="24" y="96" font-size="13" fill="#7c6f64" text-anchor="end">2</text>
-    <text x="46" y="96" font-size="13" fill="#ebdbb2">C++</text>
+    <text x="46" y="96" font-size="13" fill="#ebdbb2">JavaScript</text>
     <rect x="190" y="86" width="160" height="10" rx="3" fill="#3c3836"/>
-    <rect x="190" y="86" width="40" height="10" rx="3" fill="#83a598"/>
-    <text x="364" y="96" font-size="12" fill="#a89984">25.2%</text>
+    <rect x="190" y="86" width="71" height="10" rx="3" fill="#83a598"/>
+    <text x="364" y="96" font-size="12" fill="#a89984">44.1%</text>
     <text x="24" y="116" font-size="13" fill="#7c6f64" text-anchor="end">3</text>
-    <text x="46" y="116" font-size="13" fill="#ebdbb2">Go</text>
+    <text x="46" y="116" font-size="13" fill="#ebdbb2">CSS</text>
     <rect x="190" y="106" width="160" height="10" rx="3" fill="#3c3836"/>
-    <rect x="190" y="106" width="23" height="10" rx="3" fill="#b8bb26"/>
-    <text x="364" y="116" font-size="12" fill="#a89984">14.6%</text>
-    <text x="24" y="136" font-size="13" fill="#7c6f64" text-anchor="end">4</text>
-    <text x="46" y="136" font-size="13" fill="#ebdbb2">Python</text>
-    <rect x="190" y="126" width="160" height="10" rx="3" fill="#3c3836"/>
-    <rect x="190" y="126" width="16" height="10" rx="3" fill="#fe8019"/>
-    <text x="364" y="136" font-size="12" fill="#a89984">9.8%</text>
-    <text x="24" y="156" font-size="13" fill="#7c6f64" text-anchor="end">5</text>
-    <text x="46" y="156" font-size="13" fill="#ebdbb2">Lua</text>
-    <rect x="190" y="146" width="160" height="10" rx="3" fill="#3c3836"/>
-    <rect x="190" y="146" width="8" height="10" rx="3" fill="#8ec07c"/>
-    <text x="364" y="156" font-size="12" fill="#a89984">4.9%</text>
-    <text x="24" y="176" font-size="13" fill="#7c6f64" text-anchor="end">6</text>
-    <text x="46" y="176" font-size="13" fill="#ebdbb2">HTML</text>
-    <rect x="190" y="166" width="160" height="10" rx="3" fill="#3c3836"/>
-    <rect x="190" y="166" width="5" height="10" rx="3" fill="#d3869b"/>
-    <text x="364" y="176" font-size="12" fill="#a89984">3.3%</text>
+    <rect x="190" y="106" width="16" height="10" rx="3" fill="#b8bb26"/>
+    <text x="364" y="116" font-size="12" fill="#a89984">9.9%</text>
     <rect x="0" y="184" width="440" height="26" fill="#3c3836"/>
     <rect x="0" y="184" width="74" height="26" fill="#a89984"/>
     <text x="37" y="201" font-size="11" font-weight="bold" fill="#282828" text-anchor="middle">NORMAL</text>
     <text x="84" y="201" font-size="11" fill="#a89984">languages.lua</text>
-    <text x="428" y="201" font-size="11" fill="#a89984" text-anchor="end">6:1</text>
+    <text x="428" y="201" font-size="11" fill="#a89984" text-anchor="end">3:1</text>
   </g>
   <rect x="0.5" y="0.5" width="439" height="209" rx="8" fill="none" stroke="#504945"/>
 </svg>

@@ -18,7 +18,7 @@
     <text x="24" y="156" font-size="13" fill="#7c6f64" text-anchor="end">5</text>
     <text x="46" y="156" font-size="13" fill="#ebdbb2">issues        <tspan fill="#fe8019">=</tspan> <tspan fill="#d3869b" font-weight="bold">1</tspan>,</text>
     <text x="24" y="176" font-size="13" fill="#7c6f64" text-anchor="end">6</text>
-    <text x="46" y="176" font-size="13" fill="#ebdbb2">followers     <tspan fill="#fe8019">=</tspan> <tspan fill="#fe8019" font-weight="bold">3</tspan>,</text>
+    <text x="46" y="176" font-size="13" fill="#ebdbb2">followers     <tspan fill="#fe8019">=</tspan> <tspan fill="#fe8019" font-weight="bold">4</tspan>,</text>
     <rect x="0" y="184" width="440" height="26" fill="#3c3836"/>
     <rect x="0" y="184" width="74" height="26" fill="#a89984"/>
     <text x="37" y="201" font-size="11" font-weight="bold" fill="#282828" text-anchor="middle">NORMAL</text>
